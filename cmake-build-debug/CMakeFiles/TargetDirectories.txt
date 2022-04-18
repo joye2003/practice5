@@ -1,0 +1,3 @@
+/Users/leoscchou/CLionProjects/practice5/cmake-build-debug/CMakeFiles/practice5.dir
+/Users/leoscchou/CLionProjects/practice5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leoscchou/CLionProjects/practice5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
